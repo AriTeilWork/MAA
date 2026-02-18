@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Task3.1</string>
+    <string name="app_title">Simple Blog</string>
+    <string name="btn_clear_search_txt">Clear search</string>
+    <string name="btn_search_txt">Search</string>
+    <string name="btn_submit_txt">Submit</string>
+    <string name="comment_label">Comment</string>
+    <string name="empty_comment_error">Comment is required</string>
+    <string name="empty_name_error">Name is required</string>
+    <string name="entries_label">Entries</string>
+    <string name="invalid_date_error">Invalid date format (use yyyy-MM-dd)</string>
+    <string name="no_results_txt">No matching entries.</string>
+    <string name="search_date_hint">yyyy-MM-dd</string>
+    <string name="search_date_label">Search by date</string>
+    <string name="search_text_label">Search by text (name or comment)</string>
+    <string name="user_name_label">User name</string>
+    <style name="Theme.Task31" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
