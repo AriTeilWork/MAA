@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneCatalogExtended</string>
+    <string-array name="education_levels">
+        <item>High School</item>
+        <item>Bachelor</item>
+        <item>Master</item>
+        <item>PhD</item>
+    </string-array>
+</resources>
