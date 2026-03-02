@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">p1</string>
+
+
+
+    <string name="hint_username">User Name</string>
+    <string name="hint_comment">Comment</string>
+
+
+    <string name="btn_submit">Submit</string>
+    <string name="btn_search">Search</string>
+
+
+    <string name="hint_search_text">Search by text</string>
+    <string name="hint_search_date">Search by date (dd.MM.yyyy)</string>
+
+
+    <string name="entry_number">Entry #</string>
+    <string name="entry_user">User: </string>
+</resources>
