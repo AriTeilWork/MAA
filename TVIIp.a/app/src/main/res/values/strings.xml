@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Meeting Planner</string>
+    <string name="main_title">New Meeting</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_place">Location</string>
+    <string name="hint_participants">Participants (comma separated)</string>
+    <string name="hint_participant_search">Participant</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_time">Time</string>
+    <string name="hint_title_optional">Title to search (optional)</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_summary">Summary</string>
+    <string name="action_search_nav">Search</string>
+    <string name="action_update_nav">Update</string>
+    <string name="action_search">Search</string>
+    <string name="action_find">Find Meetings</string>
+    <string name="action_save_changes">Save Changes</string>
+    <string name="summary_title">All Meetings</string>
+    <string name="summary_empty">No meetings found</string>
+    <string name="search_results_label">Results</string>
+    <string name="update_find_section">1. Find Meeting</string>
+    <string name="update_pick_hint">Tap a row to load data into the form below</string>
+    <string name="update_edit_section">2. Edit Details</string>
+    <string name="meeting_meta_line">%1$s · %2$s · %3$s</string>
+    <string name="meeting_participants_line">Participants: %1$s</string>
+    <string name="msg_meeting_saved">Meeting saved successfully</string>
+    <string name="msg_fill_title">Please enter a title</string>
+    <string name="msg_select_meeting">Please select a meeting from the list first</string>
+    <string name="msg_updated">Changes saved</string>
+    <string name="update_id_label">Selected ID: %1$d</string>
+    <string name="update_id_none">No meeting selected (ID: --)</string>
+</resources>
